@@ -1,9 +1,6 @@
 # Hi, I'm Veeramallu Teja Sriram 👋
 
-🎯 Data Analyst and Machine Learning enthusiast with a strong background in
-Python, SQL, Power BI, and data-driven problem solving. I specialize in
-transforming raw datasets into meaningful insights that support better
-decision-making.
+🎯 Data Analyst and Machine Learning enthusiast with a strong background in Python, SQL, Power BI, and data-driven problem solving. I specialize in transforming raw datasets into meaningful insights that support better decision-making.
 
 ---
 
@@ -60,10 +57,7 @@ Andhra University College of Engineering, Visakhapatnam — CGPA 7.46
 - 💼 LinkedIn — https://www.linkedin.com/in/veeramallu-teja-sriram-829774247/
 - 📧 Email — tejasriramv@gmail.com
 - 📞 Phone — +91 7032939663
-```
 
 ---
 
-And for the **repo description**, use this:
-```
-👋 My GitHub profile README — Veeramallu Teja Sriram | Data Analyst & ML Enthusiast
+<p align="center">⭐ If you like my work, consider starring my repositories!</p>
